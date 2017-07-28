@@ -43,6 +43,12 @@ gem 'devise_invitable'
 gem 'devise_masquerade'
 # Making resigtration more robust
 gem 'devise_security_extension'
+#
+gem 'rails_email_validator'
+#
+gem 'easy_captcha'
+# Using SendGrid for Emails
+gem 'sendgrid'
 # Font awesome
 gem 'font-awesome-rails'
 # Breadcrumb navigation
